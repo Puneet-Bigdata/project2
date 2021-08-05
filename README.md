@@ -7,8 +7,13 @@ This is a template, to be filled out by each group and placed in their git repo 
 # TECHNOLOGY USED
 
 1.Apache Spark
+
 2.Spark SQL
+
 3.YARN
+
 4.HDFS and/or S3
-5.Scala 2.12.10
+
+5.Python
+
 6.Git + GitHub
