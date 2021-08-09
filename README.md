@@ -20,5 +20,5 @@ This is a template, to be filled out by each group and placed in their git repo 
 
 # API & Required Modules
 
-  Twitter API - for Building Apps and analyzing on twitter streaming & historical data
-  Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
+1. Twitter API - for Building Apps and analyzing on twitter streaming & historical data
+2.   Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
