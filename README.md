@@ -6,14 +6,19 @@ This is a template, to be filled out by each group and placed in their git repo 
 
 # TECHNOLOGY USED
 
-1.Apache Spark
+1. Apache Spark
+2. Spark SQL
+3. YARN
+4. HDFS 
+5. Git + GitHub
+6. Scala 2.12.10
 
-2.Spark SQL
+# Problem Statement
 
-3.YARN
+1.  Analyze the real time streaming tweets on famous person ( politician or actors )
+2.  Retrieving the trending hashtags of a famous personality ?
 
-4.HDFS and/or S3
+# API & Required Modules
 
-5.Python
-
-6.Git + GitHub
+  Twitter API - for Building Apps and analyzing on twitter streaming & historical data
+  Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
